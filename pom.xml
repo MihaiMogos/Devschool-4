@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>curs-1</module>
+        <module>curs-2</module>
     </modules>
     <packaging>pom</packaging>
 
