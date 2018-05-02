@@ -12,6 +12,7 @@
         <module>curs-2</module>
         <module>curs-3</module>
         <module>curs-4</module>
+        <module>curs-7</module>
     </modules>
     <packaging>pom</packaging>
 
